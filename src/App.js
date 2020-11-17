@@ -22,7 +22,7 @@ function App() {
                     }
             }>Summary Maker</a>
             <br/><br/><br/>
-            <a href="https://secondappsso.vercel.app/"
+            <a href="https://thirdappsso.vercel.app/"
                 style={
                     {
                         padding: 30,
